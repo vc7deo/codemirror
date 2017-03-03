@@ -1,0 +1,23 @@
+{
+    "name": "vc7deo/codemirror",
+    "version": "1.0.0",
+    "description": "CSS,JS editor",
+    "type": "yii2-extension",
+    "keywords": ["yii2"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Vinod C",
+            "email": "viinodc@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "vc7deo\\codemirror\\": ""
+        }
+    },
+    "extra": {
+    }
+}
